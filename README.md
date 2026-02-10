@@ -37,7 +37,7 @@ Registeration Number :
 ```
 ## aidlClient app
 ### MainActivity.java
-```
+```java
 package com.example.colorclient;
 
 import android.content.ComponentName;
